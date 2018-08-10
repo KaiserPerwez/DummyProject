@@ -1,4 +1,4 @@
-package com.kaiser.dummyproject.ui.viewpager.adapter
+package com.kaiser.dummyproject.ui.base
 
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
@@ -7,7 +7,7 @@ import android.support.v4.app.FragmentPagerAdapter
 /**
  * @author Wellington Costa on 31/12/2017.
  */
-class ViewPagerAdapter(manager: FragmentManager) : FragmentPagerAdapter(manager) {
+class BaseViewPagerAdapter(manager: FragmentManager) : FragmentPagerAdapter(manager) {
 
     private var fragmentList: ArrayList<Fragment> = ArrayList()
 
