@@ -1,14 +1,10 @@
-package com.kaiser.dummyproject.ui.binding
+package com.kaiser.dummyproject.ui.screen1list
 
 import android.databinding.BindingAdapter
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import com.kaiser.dummyproject.data.model.api.UserModel
-import com.kaiser.dummyproject.ui.recycler.adapter.UserRecyclerAdapter
 
-/**
- * @author Wellington Costa on 31/12/2017.
- */
 object ListUsersBindings {
 
     @JvmStatic

@@ -5,7 +5,7 @@
     <data>
         <variable
             name="user"
-            type="com.kaiser.dummyproject.model.UserModel" />
+            type="com.kaiser.dummyproject.data.model.api.UserModel" />
     </data>
 
     <android.support.constraint.ConstraintLayout

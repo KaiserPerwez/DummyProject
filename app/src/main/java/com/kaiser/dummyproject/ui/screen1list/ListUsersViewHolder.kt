@@ -1,4 +1,4 @@
-package com.kaiser.dummyproject.ui.recycler.viewholder
+package com.kaiser.dummyproject.ui.screen1list
 
 import android.databinding.DataBindingUtil
 import android.support.v7.widget.RecyclerView
